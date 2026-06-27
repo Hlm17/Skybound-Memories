@@ -1,0 +1,5 @@
+# Redirect index to root
+/home/index.html    /   301
+
+# Handle 404
+/*    /404.html   404
