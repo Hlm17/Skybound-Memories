@@ -58736,7 +58736,7 @@ var Console = exports["default"] = /*#__PURE__*/function () {
     key: "warn",
     value: function warn() {
       var _console;
-      var style = "font-size: 12px; background-image: url(\"".concat(elementorWebCliConfig.urls.assets, "images/logo-icon.png\"); background-repeat: no-repeat; background-size: contain;");
+      var style = "font-size: 12px; background-image: url(\"".concat(elementorWebCliConfig.urls.assets, "images/logo-icon.webp\"); background-repeat: no-repeat; background-size: contain;");
       for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
         args[_key] = arguments[_key];
       }

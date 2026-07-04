@@ -486,7 +486,7 @@ var optInLinks = {
 };
 var optInImages = {
   square: {
-    src: 'https://assets.elementor.com/v4-promotion/v1/images/v4_opt_in_500.png',
+    src: 'https://assets.elementor.com/v4-promotion/v1/images/v4_opt_in_500.webp',
     sx: {
       width: '100%',
       maxHeight: '507px',
@@ -497,7 +497,7 @@ var optInImages = {
     }
   },
   landscape: {
-    src: 'https://assets.elementor.com/v4-promotion/v1/images/v4_opt_in_260.png',
+    src: 'https://assets.elementor.com/v4-promotion/v1/images/v4_opt_in_260.webp',
     sx: {
       width: '100%',
       height: 'auto',

@@ -1730,7 +1730,7 @@ var NewPageKitListItem = function NewPageKitListItem() {
     className: "eps-card__headline"
   }, (0, _i18n.__)('Blank Canvas', 'elementor'))), /*#__PURE__*/_react.default.createElement(_appUi.CardBody, null, /*#__PURE__*/_react.default.createElement(_appUi.CardImage, {
     alt: (0, _i18n.__)('Blank Canvas', 'elementor'),
-    src: elementorCommon.config.urls.assets + 'images/app/onboarding/Blank_Preview.jpg' || 0
+    src: elementorCommon.config.urls.assets + 'images/app/onboarding/Blank_Preview.webp' || 0
   }, /*#__PURE__*/_react.default.createElement(_appUi.CardOverlay, null, /*#__PURE__*/_react.default.createElement(_appUi.Grid, {
     container: true,
     direction: "column",

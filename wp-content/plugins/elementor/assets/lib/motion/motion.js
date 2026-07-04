@@ -2556,7 +2556,7 @@
      * Check if a value is animatable. Examples:
      *
      * ✅: 100, "100px", "#fff"
-     * ❌: "block", "url(2.jpg)"
+     * ❌: "block", "url(2.webp)"
      * @param value
      *
      * @internal

@@ -886,7 +886,7 @@ var SuccessMessage = function SuccessMessage() {
     square: true,
     className: "e-checklist-done"
   }, /*#__PURE__*/_react.default.createElement(_ui.CardMedia, {
-    image: "https://assets.elementor.com/checklist/v1/images/checklist-step-7.jpg",
+    image: "https://assets.elementor.com/checklist/v1/images/checklist-step-7.webp",
     sx: {
       height: 180
     }
