@@ -938,7 +938,7 @@ align-items: center;
   </main>
 
   <script>
-    const API_URL = "./compendium.json";
+    const API_URL = "//api/search_koleksi.php";
 
     const form = document.getElementById("searchForm");
     const keywordInput = document.getElementById("keyword");
@@ -992,7 +992,7 @@ align-items: center;
     }
 
     async function loadCollections() {
-      const keyword = keywordInput.value.trim().toLowerCase();
+      const keyword = keywordInput.value.trim();
       const category = categorySelect.value;
 
       collectionGrid.innerHTML = `
@@ -1000,31 +1000,24 @@ align-items: center;
       `;
 
       try {
-        const response = await fetch(API_URL);
+        const params = new URLSearchParams({
+          q: keyword,
+          category: category
+        });
+
+        const response = await fetch(`${API_URL}?${params.toString()}`);
         const result = await response.json();
 
         if (!response.ok || !result.success) {
           throw new Error(result.message || "Gagal memuat data.");
         }
 
-        // Filter the static JSON locally since we have no backend
-        let filteredBooks = result.data;
-        if (keyword) {
-          filteredBooks = filteredBooks.filter(book => 
-            book.title.toLowerCase().includes(keyword) || 
-            book.author.toLowerCase().includes(keyword)
-          );
-        }
-        if (category) {
-          filteredBooks = filteredBooks.filter(book => book.category === category);
-        }
-
-        renderBooks(filteredBooks);
+        renderBooks(result.data);
       } catch (error) {
         collectionGrid.innerHTML = `
           <div class="empty-state">
             <strong>Compendium entries could not be loaded.</strong><br>
-            Ensure that the static compendium.json file exists.
+            Ensure that Apache and MySQL in XAMPP are running.
           </div>
         `;
 
