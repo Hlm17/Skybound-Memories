@@ -8,7 +8,8 @@
       "author": "thatgamecompany",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/675e425d62585bcf6d0cedd248c5993a.webp"
+      "cover_url": "./wp-content/uploads/2026/06/675e425d62585bcf6d0cedd248c5993a.webp",
+      "link": "./isle-of-dawn/index.html"
     },
     {
       "id": 2,
@@ -17,7 +18,8 @@
       "author": "thatgamecompany",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/4b3893218cdcecfe653d37e6b586be51.webp"
+      "cover_url": "./wp-content/uploads/2026/06/4b3893218cdcecfe653d37e6b586be51.webp",
+      "link": "./daylight-prairie/index.html"
     },
     {
       "id": 3,
@@ -26,7 +28,8 @@
       "author": "thatgamecompany",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/346eebc731238978669e7c0f6d986a4d.webp"
+      "cover_url": "./wp-content/uploads/2026/06/346eebc731238978669e7c0f6d986a4d.webp",
+      "link": "./hidden-forest/index.html"
     },
     {
       "id": 4,
@@ -35,7 +38,8 @@
       "author": "thatgamecompany",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/d7afef6d4e40cf160347294706784605.webp"
+      "cover_url": "./wp-content/uploads/2026/06/d7afef6d4e40cf160347294706784605.webp",
+      "link": "./valley-of-triumph/index.html"
     },
     {
       "id": 5,
@@ -44,7 +48,8 @@
       "author": "thatgamecompany",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/6c543de760e85e8ff459dbc08f780245.webp"
+      "cover_url": "./wp-content/uploads/2026/06/6c543de760e85e8ff459dbc08f780245.webp",
+      "link": "./golden-wasteland/index.html"
     },
     {
       "id": 6,
@@ -53,7 +58,8 @@
       "author": "thatgamecompany",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/0f70c4cc5cff6868f1ba36fa615e9707.webp"
+      "cover_url": "./wp-content/uploads/2026/06/0f70c4cc5cff6868f1ba36fa615e9707.webp",
+      "link": "./vault-of-knowledge/index.html"
     },
     {
       "id": 7,
@@ -62,7 +68,8 @@
       "author": "thatgamecompany",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/5a3d8f58d2a1ac390266c1e778ea919e.webp"
+      "cover_url": "./wp-content/uploads/2026/06/5a3d8f58d2a1ac390266c1e778ea919e.webp",
+      "link": "./eye-of-eden/index.html"
     },
     {
       "id": 8,
@@ -71,7 +78,8 @@
       "author": "Daylight Prairie",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Manta Whisperer (Daylight Prairie)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
     },
     {
       "id": 9,
@@ -80,7 +88,8 @@
       "author": "Hidden Forest",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Chuckling Scout (Hidden Forest)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
     },
     {
       "id": 10,
@@ -89,7 +98,8 @@
       "author": "Valley of Triumph",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Backflipping Champion (Valley of Triumph)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
     },
     {
       "id": 11,
@@ -98,7 +108,8 @@
       "author": "Golden Wasteland",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Pleaful Parent (Golden Wasteland)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
     },
     {
       "id": 12,
@@ -107,7 +118,8 @@
       "author": "Daylight Prairie",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Butterfly Call', 'Detail information is not available yet.');"
     },
     {
       "id": 13,
@@ -116,7 +128,8 @@
       "author": "Hidden Forest",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Shiver', 'Detail information is not available yet.');"
     },
     {
       "id": 14,
@@ -125,7 +138,8 @@
       "author": "Valley of Triumph",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Cheer', 'Detail information is not available yet.');"
     },
     {
       "id": 15,
@@ -134,7 +148,8 @@
       "author": "thatgamecompany",
       "year": "2022",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Season of Aurora', 'Detail information is not available yet.');"
     },
     {
       "id": 16,
@@ -143,7 +158,8 @@
       "author": "thatgamecompany",
       "year": "2022",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Season of Shattering', 'Detail information is not available yet.');"
     },
     {
       "id": 17,
@@ -152,7 +168,8 @@
       "author": "thatgamecompany",
       "year": "2023",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Days of Color', 'Detail information is not available yet.');"
     },
     {
       "id": 18,
@@ -161,7 +178,8 @@
       "author": "Isle of Dawn",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Rainbow Bridge', 'Detail information is not available yet.');"
     },
     {
       "id": 19,
@@ -170,7 +188,8 @@
       "author": "Vault of Knowledge",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Starfield Memorial', 'Detail information is not available yet.');"
     },
     {
       "id": 20,
@@ -179,7 +198,8 @@
       "author": "Hidden Forest",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Sunny Forest OOB', 'Detail information is not available yet.');"
     },
     {
       "id": 21,
@@ -188,7 +208,8 @@
       "author": "Valley of Triumph",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Valley Coliseum OOB', 'Detail information is not available yet.');"
     },
     {
       "id": 22,
@@ -197,7 +218,8 @@
       "author": "Isle of Dawn",
       "year": "2020",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Cave of Prophecies', 'Detail information is not available yet.');"
     },
     {
       "id": 23,
@@ -206,7 +228,8 @@
       "author": "Daylight Prairie",
       "year": "2020",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp"
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Sanctuary Islands', 'Detail information is not available yet.');"
     }
   ]
 }
