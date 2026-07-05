@@ -2,6 +2,126 @@
   "success": true,
   "data": [
     {
+      "id": 15,
+      "title": "Season of Aurora",
+      "category": "Event",
+      "author": "thatgamecompany",
+      "year": "2022",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Season of Aurora', 'Detail information is not available yet.');"
+    },
+    {
+      "id": 16,
+      "title": "Season of Shattering",
+      "category": "Event",
+      "author": "thatgamecompany",
+      "year": "2022",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Season of Shattering', 'Detail information is not available yet.');"
+    },
+    {
+      "id": 17,
+      "title": "Days of Color",
+      "category": "Event",
+      "author": "thatgamecompany",
+      "year": "2023",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Days of Color', 'Detail information is not available yet.');"
+    },
+    {
+      "id": 12,
+      "title": "Butterfly Call",
+      "category": "Expression",
+      "author": "Daylight Prairie",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Butterfly Call', 'Detail information is not available yet.');"
+    },
+    {
+      "id": 13,
+      "title": "Shiver",
+      "category": "Expression",
+      "author": "Hidden Forest",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Shiver', 'Detail information is not available yet.');"
+    },
+    {
+      "id": 14,
+      "title": "Cheer",
+      "category": "Expression",
+      "author": "Valley of Triumph",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Cheer', 'Detail information is not available yet.');"
+    },
+    {
+      "id": 18,
+      "title": "Rainbow Bridge",
+      "category": "OOB",
+      "author": "Isle of Dawn",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Rainbow Bridge', 'Detail information is not available yet.');"
+    },
+    {
+      "id": 19,
+      "title": "Starfield Memorial",
+      "category": "OOB",
+      "author": "Vault of Knowledge",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Starfield Memorial', 'Detail information is not available yet.');"
+    },
+    {
+      "id": 20,
+      "title": "Sunny Forest OOB",
+      "category": "OOB",
+      "author": "Hidden Forest",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Sunny Forest OOB', 'Detail information is not available yet.');"
+    },
+    {
+      "id": 21,
+      "title": "Valley Coliseum OOB",
+      "category": "OOB",
+      "author": "Valley of Triumph",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Valley Coliseum OOB', 'Detail information is not available yet.');"
+    },
+    {
+      "id": 22,
+      "title": "Cave of Prophecies",
+      "category": "Place",
+      "author": "Isle of Dawn",
+      "year": "2020",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Cave of Prophecies', 'Detail information is not available yet.');"
+    },
+    {
+      "id": 23,
+      "title": "Sanctuary Islands",
+      "category": "Place",
+      "author": "Daylight Prairie",
+      "year": "2020",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "link": "javascript:showCustomModal('Sanctuary Islands', 'Detail information is not available yet.');"
+    },
+    {
       "id": 1,
       "title": "Isle of Dawn",
       "category": "Realm",
@@ -72,164 +192,364 @@
       "link": "./eye-of-eden/index.html"
     },
     {
-      "id": 8,
-      "title": "Manta Whisperer",
-      "category": "Spirit",
-      "author": "Daylight Prairie",
-      "year": "2019",
-      "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Manta Whisperer (Daylight Prairie)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
-    },
-    {
-      "id": 9,
-      "title": "Chuckling Scout",
+      "id": 24,
+      "title": "Apologetic Lumberjack",
       "category": "Spirit",
       "author": "Hidden Forest",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Chuckling Scout (Hidden Forest)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+      "cover_url": "./wp-content/uploads/2026/06/Forest-Spirit-Apologetic-Lumberjack-removebg-preview.png",
+      "link": "javascript:showCustomModal('Apologetic Lumberjack (Hidden Forest)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
     },
     {
-      "id": 10,
+      "id": 25,
+      "title": "Blushing Prospector",
+      "category": "Spirit",
+      "author": "Hidden Forest",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Forest-Spirit-Blushing-Prospector-removebg-preview.png",
+      "link": "javascript:showCustomModal('Blushing Prospector (Hidden Forest)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 26,
+      "title": "Dismayed Hunter",
+      "category": "Spirit",
+      "author": "Hidden Forest",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Forest-Spirit-Dismayed-Hunter-removebg-preview.png",
+      "link": "javascript:showCustomModal('Dismayed Hunter (Hidden Forest)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 27,
+      "title": "Hide n Seek Pioneer",
+      "category": "Spirit",
+      "author": "Hidden Forest",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Forest-Spirit-Hide-n-Seek-Pioneer-removebg-preview.png",
+      "link": "javascript:showCustomModal('Hide n Seek Pioneer (Hidden Forest)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 28,
+      "title": "Pouty Porter",
+      "category": "Spirit",
+      "author": "Hidden Forest",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Forest-Spirit-Pouty-Porter-removebg-preview.png",
+      "link": "javascript:showCustomModal('Pouty Porter (Hidden Forest)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 29,
+      "title": "Shivering Trailblazer",
+      "category": "Spirit",
+      "author": "Hidden Forest",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Forest-Spirit-Shivering-Trailblazer-removebg-preview.png",
+      "link": "javascript:showCustomModal('Shivering Trailblazer (Hidden Forest)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 30,
+      "title": "Tearful Light Miner",
+      "category": "Spirit",
+      "author": "Hidden Forest",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Forest-Spirit-Tearful-Light-Miner-removebg-preview.png",
+      "link": "javascript:showCustomModal('Tearful Light Miner (Hidden Forest)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 31,
+      "title": "Whale Whisperer",
+      "category": "Spirit",
+      "author": "Hidden Forest",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Forest-Spirit-Whale-Whisperer-removebg-preview.png",
+      "link": "javascript:showCustomModal('Whale Whisperer (Hidden Forest)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 32,
+      "title": "Pointing Candlemaker",
+      "category": "Spirit",
+      "author": "Isle of Dawn",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Isle-Spirit-Pointing-Candlemaker-removebg-preview.png",
+      "link": "javascript:showCustomModal('Pointing Candlemaker (Isle of Dawn)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 33,
+      "title": "Rejecting Voyager",
+      "category": "Spirit",
+      "author": "Isle of Dawn",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Isle-Spirit-Rejecting-Voyager-removebg-preview.png",
+      "link": "javascript:showCustomModal('Rejecting Voyager (Isle of Dawn)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 34,
+      "title": "Ushering Stargazer",
+      "category": "Spirit",
+      "author": "Isle of Dawn",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Isle-Spirit-Ushering-Stargazer-removebg-preview.png",
+      "link": "javascript:showCustomModal('Ushering Stargazer (Isle of Dawn)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 35,
+      "title": "Applauding Bellmaker",
+      "category": "Spirit",
+      "author": "Daylight Prairie",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Prairie-Spirit-Applauding-Bellmaker-removebg-preview.png",
+      "link": "javascript:showCustomModal('Applauding Bellmaker (Daylight Prairie)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 36,
+      "title": "Butterfly Charmer",
+      "category": "Spirit",
+      "author": "Daylight Prairie",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Prairie-Spirit-Butterfly-Charmer-removebg-preview.png",
+      "link": "javascript:showCustomModal('Butterfly Charmer (Daylight Prairie)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 37,
+      "title": "Ceremonial Worshiper",
+      "category": "Spirit",
+      "author": "Daylight Prairie",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Prairie-Spirit-Ceremonial-Worshiper-removebg-preview.png",
+      "link": "javascript:showCustomModal('Ceremonial Worshiper (Daylight Prairie)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 38,
+      "title": "Exhausted Dock Worker",
+      "category": "Spirit",
+      "author": "Daylight Prairie",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Prairie-Spirit-Exhausted-Dock-Worker-removebg-preview.png",
+      "link": "javascript:showCustomModal('Exhausted Dock Worker (Daylight Prairie)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 39,
+      "title": "Laughing Light Catcher",
+      "category": "Spirit",
+      "author": "Daylight Prairie",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Prairie-Spirit-Laughing-Light-Catcher-removebg-preview.png",
+      "link": "javascript:showCustomModal('Laughing Light Catcher (Daylight Prairie)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 40,
+      "title": "Slumbering Shipwright",
+      "category": "Spirit",
+      "author": "Daylight Prairie",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Prairie-Spirit-Slumbering-Shipwright-removebg-preview.png",
+      "link": "javascript:showCustomModal('Slumbering Shipwright (Daylight Prairie)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 41,
+      "title": "Waving Bellmaker",
+      "category": "Spirit",
+      "author": "Daylight Prairie",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Prairie-Spirit-Waving-Bellmaker-removebg-preview.png",
+      "link": "javascript:showCustomModal('Waving Bellmaker (Daylight Prairie)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 42,
       "title": "Backflipping Champion",
       "category": "Spirit",
       "author": "Valley of Triumph",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
+      "cover_url": "./wp-content/uploads/2026/06/Valley-Spirit-Backflipping-Champion-removebg-preview.png",
       "link": "javascript:showCustomModal('Backflipping Champion (Valley of Triumph)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
     },
     {
-      "id": 11,
-      "title": "Pleaful Parent",
+      "id": 43,
+      "title": "Bowing Medalist",
+      "category": "Spirit",
+      "author": "Valley of Triumph",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Valley-Spirit-Bowing-Medalist-removebg-preview.png",
+      "link": "javascript:showCustomModal('Bowing Medalist (Valley of Triumph)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 44,
+      "title": "Cheerful Spectator",
+      "category": "Spirit",
+      "author": "Valley of Triumph",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Valley-Spirit-Cheerful-Spectator-removebg-preview.png",
+      "link": "javascript:showCustomModal('Cheerful Spectator (Valley of Triumph)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 45,
+      "title": "Confident Sightseer",
+      "category": "Spirit",
+      "author": "Valley of Triumph",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Valley-Spirit-Confident-Sightseer-removebg-preview.png",
+      "link": "javascript:showCustomModal('Confident Sightseer (Valley of Triumph)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 46,
+      "title": "Handstanding Thrillseeker",
+      "category": "Spirit",
+      "author": "Valley of Triumph",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Valley-Spirit-Handstanding-Thrillseeker-removebg-preview.png",
+      "link": "javascript:showCustomModal('Handstanding Thrillseeker (Valley of Triumph)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 47,
+      "title": "Manta Whisperer",
+      "category": "Spirit",
+      "author": "Valley of Triumph",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Valley-Spirit-Manta-Whisperer-removebg-preview.png",
+      "link": "javascript:showCustomModal('Manta Whisperer (Valley of Triumph)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 48,
+      "title": "Proud Victor",
+      "category": "Spirit",
+      "author": "Valley of Triumph",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Valley-Spirit-Proud-Victor-removebg-preview.png",
+      "link": "javascript:showCustomModal('Proud Victor (Valley of Triumph)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 49,
+      "title": "Levitating Adept",
+      "category": "Spirit",
+      "author": "Vault of Knowledge",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Vault-Spirit-Levitating-Adept-removebg-preview.png",
+      "link": "javascript:showCustomModal('Levitating Adept (Vault of Knowledge)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 50,
+      "title": "Meditating Monastic",
+      "category": "Spirit",
+      "author": "Vault of Knowledge",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Vault-Spirit-Meditating-Monastic-removebg-preview.png",
+      "link": "javascript:showCustomModal('Meditating Monastic (Vault of Knowledge)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 51,
+      "title": "Memory Whisperer",
+      "category": "Spirit",
+      "author": "Vault of Knowledge",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Vault-Spirit-Memory-Whisperer-removebg-preview.png",
+      "link": "javascript:showCustomModal('Memory Whisperer (Vault of Knowledge)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 52,
+      "title": "Polite Scholar",
+      "category": "Spirit",
+      "author": "Vault of Knowledge",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Vault-Spirit-Polite-Scholar-removebg-preview.png",
+      "link": "javascript:showCustomModal('Polite Scholar (Vault of Knowledge)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 53,
+      "title": "Praying Acolyte",
+      "category": "Spirit",
+      "author": "Vault of Knowledge",
+      "year": "2019",
+      "publisher": "Sky",
+      "cover_url": "./wp-content/uploads/2026/06/Vault-Spirit-Praying-Acolyte-removebg-preview.png",
+      "link": "javascript:showCustomModal('Praying Acolyte (Vault of Knowledge)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+    },
+    {
+      "id": 54,
+      "title": "Courageous Soldier",
       "category": "Spirit",
       "author": "Golden Wasteland",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Pleaful Parent (Golden Wasteland)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
+      "cover_url": "./wp-content/uploads/2026/06/Wasteland-Spirit-Courageous-Soldier-removebg-preview.png",
+      "link": "javascript:showCustomModal('Courageous Soldier (Golden Wasteland)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
     },
     {
-      "id": 12,
-      "title": "Butterfly Call",
-      "category": "Expression",
-      "author": "Daylight Prairie",
+      "id": 55,
+      "title": "Fainting Warrior",
+      "category": "Spirit",
+      "author": "Golden Wasteland",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Butterfly Call', 'Detail information is not available yet.');"
+      "cover_url": "./wp-content/uploads/2026/06/Wasteland-Spirit-Fainting-Warrior-removebg-preview.png",
+      "link": "javascript:showCustomModal('Fainting Warrior (Golden Wasteland)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
     },
     {
-      "id": 13,
-      "title": "Shiver",
-      "category": "Expression",
-      "author": "Hidden Forest",
+      "id": 56,
+      "title": "Frightened Refugee",
+      "category": "Spirit",
+      "author": "Golden Wasteland",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Shiver', 'Detail information is not available yet.');"
+      "cover_url": "./wp-content/uploads/2026/06/Wasteland-Spirit-Frightened-Refugee-removebg-preview.png",
+      "link": "javascript:showCustomModal('Frightened Refugee (Golden Wasteland)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
     },
     {
-      "id": 14,
-      "title": "Cheer",
-      "category": "Expression",
-      "author": "Valley of Triumph",
+      "id": 57,
+      "title": "Lookout Scout",
+      "category": "Spirit",
+      "author": "Golden Wasteland",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Cheer', 'Detail information is not available yet.');"
+      "cover_url": "./wp-content/uploads/2026/06/Wasteland-Spirit-Lookout-Scout-removebg-preview.png",
+      "link": "javascript:showCustomModal('Lookout Scout (Golden Wasteland)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
     },
     {
-      "id": 15,
-      "title": "Season of Aurora",
-      "category": "Event",
-      "author": "thatgamecompany",
-      "year": "2022",
-      "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Season of Aurora', 'Detail information is not available yet.');"
-    },
-    {
-      "id": 16,
-      "title": "Season of Shattering",
-      "category": "Event",
-      "author": "thatgamecompany",
-      "year": "2022",
-      "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Season of Shattering', 'Detail information is not available yet.');"
-    },
-    {
-      "id": 17,
-      "title": "Days of Color",
-      "category": "Event",
-      "author": "thatgamecompany",
-      "year": "2023",
-      "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Days of Color', 'Detail information is not available yet.');"
-    },
-    {
-      "id": 18,
-      "title": "Rainbow Bridge",
-      "category": "OOB",
-      "author": "Isle of Dawn",
+      "id": 58,
+      "title": "Saluting Captain",
+      "category": "Spirit",
+      "author": "Golden Wasteland",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Rainbow Bridge', 'Detail information is not available yet.');"
+      "cover_url": "./wp-content/uploads/2026/06/Wasteland-Spirit-Saluting-Captain-removebg-preview.png",
+      "link": "javascript:showCustomModal('Saluting Captain (Golden Wasteland)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
     },
     {
-      "id": 19,
-      "title": "Starfield Memorial",
-      "category": "OOB",
-      "author": "Vault of Knowledge",
+      "id": 59,
+      "title": "Stealthy Survivor",
+      "category": "Spirit",
+      "author": "Golden Wasteland",
       "year": "2019",
       "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Starfield Memorial', 'Detail information is not available yet.');"
-    },
-    {
-      "id": 20,
-      "title": "Sunny Forest OOB",
-      "category": "OOB",
-      "author": "Hidden Forest",
-      "year": "2019",
-      "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Sunny Forest OOB', 'Detail information is not available yet.');"
-    },
-    {
-      "id": 21,
-      "title": "Valley Coliseum OOB",
-      "category": "OOB",
-      "author": "Valley of Triumph",
-      "year": "2019",
-      "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Valley Coliseum OOB', 'Detail information is not available yet.');"
-    },
-    {
-      "id": 22,
-      "title": "Cave of Prophecies",
-      "category": "Place",
-      "author": "Isle of Dawn",
-      "year": "2020",
-      "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Cave of Prophecies', 'Detail information is not available yet.');"
-    },
-    {
-      "id": 23,
-      "title": "Sanctuary Islands",
-      "category": "Place",
-      "author": "Daylight Prairie",
-      "year": "2020",
-      "publisher": "Sky",
-      "cover_url": "./wp-content/uploads/2026/06/fae53401a06e07455b56515fa380e0a0-removebg-preview.webp",
-      "link": "javascript:showCustomModal('Sanctuary Islands', 'Detail information is not available yet.');"
+      "cover_url": "./wp-content/uploads/2026/06/Wasteland-Spirit-Stealthy-Survivor-removebg-preview.png",
+      "link": "javascript:showCustomModal('Stealthy Survivor (Golden Wasteland)', 'Here are the regular spirits for this area. Explore the realm to find their memories!');"
     }
   ]
 }
